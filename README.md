@@ -21,24 +21,6 @@ API를 사용하여 영화 줄거리와 장르를
 `axios` `prop-types`
 
 
-## 파일 구조
-<details>
-<summary>펼치기/접기</summary>
-<div markdown="1">
-|   node_modules
-|   public
-|   src
-|   |   App.js
-|   |   index.js
-|   |   Movie.js
-|   |   App.css
-|   package-lock.json
-|   package.json
-|   README.md
-movie_app
-</div>
-</details>
-
 ## API
 <a href="https://yts-proxy.nomadcoders1.now.sh/list_movies.json">영화 정보관련 API 링크
 </a>
